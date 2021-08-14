@@ -43,4 +43,4 @@ for drive in drives:
                           '______________________________'
                         '\n\n' + largestFilePath + '\n' + "File Size: "
                            + megaBytesLargestFileSize+ " Megabytes\n" + "\t"*1 + r"   "
-                           + gigaBytesLargestFileSize + "Gigabytes\n\n")
+                           + gigaBytesLargestFileSize + " Gigabytes\n\n")
